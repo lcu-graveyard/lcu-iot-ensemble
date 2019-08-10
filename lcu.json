@@ -1,0 +1,14 @@
+{
+  "templates": {
+    "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+    "scope": "@iot-ensemble",
+    "workspace": "lcu-iot-ensemble"
+  },
+  "config": {
+    "wc": ["wc/lcu-iot-ensemble.lcu.js"],
+    "solutions": {},
+    "elements": {},
+    "flux": {},
+    "dependencies": {}
+  }
+}
